@@ -1,0 +1,5 @@
+
+opython:S117-"XRename this local variable "dataSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(ï±•‚
+~python:S117o"`Rename this local variable "accuracyInEpoch" to match the regular expression ^[_a-z][a-z0-9_]*$.(Þéùá8¡³…é©1
+zpython:S117n"\Rename this local variable "lossInEpoch" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÈÅ¼ì8¢³…é©1
+vpython:S117q"XRename this local variable "lossNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(–«Õ“8¢³…é©1

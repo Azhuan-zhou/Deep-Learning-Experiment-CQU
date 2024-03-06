@@ -1,0 +1,7 @@
+
+jpython:S117-"NRename this parameter "DS" to match the regular expression ^[_a-z][a-z0-9_]*$.(½¸·…ÿÿÿÿÿ
+epython:S117Q"NRename this parameter "DS" to match the regular expression ^[_a-z][a-z0-9_]*$.(îšÂÔ
+vpython:S117s"ZRename this local variable "Predicted" to match the regular expression ^[_a-z][a-z0-9_]*$.(Þ¤ÏÓüÿÿÿÿ
+cpython:S1542Q"KRename function "Train" to match the regular expression ^[a-z_][a-z0-9_]*$.(îšÂÔ
+Ppython:S1481s"3Replace unused local variable "Predicted" with "_".(Þ¤ÏÓüÿÿÿÿ
+gpython:S1542"JRename function "Test" to match the regular expression ^[a-z_][a-z0-9_]*$.(’žâ®ÿÿÿÿÿ
